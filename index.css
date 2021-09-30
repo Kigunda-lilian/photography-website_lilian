@@ -123,4 +123,9 @@ ul {
       height: 0.5px;
       width: 0.5px;
   }
+  li{
+      font-family: fantasy;
+      font-size: 16px;
+      color: gray;
+  }
   
