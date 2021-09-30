@@ -119,4 +119,8 @@ ul {
       text-align: center;
       color: white;
   }
+  #mine{
+      height: 0.5px;
+      width: 0.5px;
+  }
   
